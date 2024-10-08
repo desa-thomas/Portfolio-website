@@ -91,7 +91,7 @@ spanModal2.onclick = function() {
 //BUTTON 3 -- links to outside website
 var btn3 = document.getElementById("btn3");
 btn3.onclick = function() { 
-  window.open("https://www.nintendo.com", "_blank") //TODO add your link
+  window.open("https://desa-thomas.github.io/Minesweeper-Web/", "_blank") //TODO add your link
 }
 
 //BUTTON 4
